@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX/description=
+repositories/file\:_D\:_GitHub_Node_Node.js_NodeX/enabled=true
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX/isSystem=true
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX/name=Bundle pool
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX/provider=
@@ -15,6 +16,7 @@ repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_configuration_org.eclipse.osgi
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_configuration_org.eclipse.osgi_718_data_listener_1925729951/uri=file\:/D\:/GitHub/Node/Node.js/NodeX/configuration/org.eclipse.osgi/718/data/listener_1925729951/
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_configuration_org.eclipse.osgi_718_data_listener_1925729951/version=1
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_p2_org.eclipse.equinox.p2.core_cache/enabled=true
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_p2_org.eclipse.equinox.p2.core_cache/name=download cache
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_p2_org.eclipse.equinox.p2.core_cache/provider=
@@ -23,6 +25,7 @@ repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_p2_org.eclipse.equinox.p2.core
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_p2_org.eclipse.equinox.p2.core_cache/uri=file\:/D\:/GitHub/Node/Node.js/NodeX/p2/org.eclipse.equinox.p2.core/cache/
 repositories/file\:_D\:_GitHub_Node_Node.js_NodeX_p2_org.eclipse.equinox.p2.core_cache/version=1.0.0
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205/description=
+repositories/file\:_D\:_Xmind_XMind%208%20Update%205/enabled=true
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205/isSystem=true
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205/name=Bundle pool
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205/provider=
@@ -40,6 +43,7 @@ repositories/file\:_D\:_Xmind_XMind%208%20Update%205_.eclipseextension/type=org.
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_.eclipseextension/uri=file\:/D\:/Xmind/XMind%208%20Update%205/.eclipseextension
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_.eclipseextension/version=1
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_configuration_org.eclipse.osgi_718_data_listener_1925729951/description=
+repositories/file\:_D\:_Xmind_XMind%208%20Update%205_configuration_org.eclipse.osgi_718_data_listener_1925729951/enabled=true
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_configuration_org.eclipse.osgi_718_data_listener_1925729951/isSystem=true
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_configuration_org.eclipse.osgi_718_data_listener_1925729951/name=dropins
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_configuration_org.eclipse.osgi_718_data_listener_1925729951/provider=
@@ -48,6 +52,7 @@ repositories/file\:_D\:_Xmind_XMind%208%20Update%205_configuration_org.eclipse.o
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_configuration_org.eclipse.osgi_718_data_listener_1925729951/uri=file\:/D\:/Xmind/XMind%208%20Update%205/configuration/org.eclipse.osgi/718/data/listener_1925729951/
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_configuration_org.eclipse.osgi_718_data_listener_1925729951/version=1.0.0
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_D\:_Xmind_XMind%208%20Update%205_p2_org.eclipse.equinox.p2.core_cache/enabled=true
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_p2_org.eclipse.equinox.p2.core_cache/name=download cache
 repositories/file\:_D\:_Xmind_XMind%208%20Update%205_p2_org.eclipse.equinox.p2.core_cache/provider=
